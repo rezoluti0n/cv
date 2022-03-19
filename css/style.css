@@ -1,0 +1,22 @@
+body {
+  background-color: #EEEDDE;
+  color: #141E27;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  border-color: #203239;
+  width: 7%;
+}
+
+h3{
+  color: #557B83;
+  font-family:inherit;
+
+}
+h1{
+  color: #557B83;
+  font-family:inherit;
+}
